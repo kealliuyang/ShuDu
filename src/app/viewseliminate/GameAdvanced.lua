@@ -646,7 +646,7 @@ function GameAdvanced:isGameOver()
                 end
             end
             if not can_put then
-                touch_box:setOpacity(150)
+                touch_box:setOpacity(50)
             end
         end
     end
@@ -657,7 +657,7 @@ function GameAdvanced:checkCanPutByPos( config,i,j )
     local need_space = {}
     local check = nil
     if config.need_caltype then
-        check = self._touchBox:getNeedSpace( config.need_caltype,i,j )
+        check = self:getNeedSpace( config.need_caltype,i,j )
         for k,v in ipairs( check ) do
             if (not self._dropList[v.i]) 
                 or (not self._dropList[v.i][v.j]) 
@@ -763,6 +763,66 @@ function GameAdvanced:clickRefresh()
         local data = { score = self._totalScore,ui = "GameAdvanced" }
         addUIToScene( UIDefine.ELIMI_KEY.GameNotPut_UI,data )
     end
+end
+
+function GameAdvanced:getNeedSpace( needCaltype,i,j )
+    if needCaltype == 1 then
+        return self:getNeedSpaceNineIndex(i,j)
+    elseif needCaltype == 2 then
+        return self:getNeedSpaceTenIndex(i,j)
+    end
+end
+
+function GameAdvanced:getNeedSpaceNineIndex( i,j )
+    local start = { i = i,j = j }
+    local dd = {}
+    local j_five_flag = nil
+    table.insert(dd,start)
+    for i = 1,3 do
+        local meta = {}
+        if start.i >= 5 then
+            meta.i = start.i + i
+            meta.j = start.j
+        else
+            meta.i = start.i + i
+            if not j_five_flag and meta.i == 5 then
+                j_five_flag = start.j + i
+            end
+            if start.i + i > 5 then
+                meta.j = j_five_flag
+            else
+                meta.j = start.j + i
+            end
+        end
+        table.insert(dd,meta)
+    end
+    return dd
+end
+
+function GameAdvanced:getNeedSpaceTenIndex( i,j )
+    local start = { i = i,j = j }
+    local dd = {}
+    local j_five_flag = nil
+    table.insert(dd,start)
+    for i = 1,3 do
+        local meta = {}
+        if start.i >= 5 then
+            meta.i = start.i + i
+            meta.j = start.j - i
+        else
+            meta.i = start.i + i
+            if not j_five_flag and meta.i == 5 then
+                j_five_flag = start.j
+            end
+            if start.i + i > 5 then
+                meta.j = j_five_flag - ( start.i + i - 5)
+            else
+                meta.j = start.j
+            end
+        end
+        table.insert(dd,meta)
+    end
+    return dd
 end
 
 return GameAdvanced
