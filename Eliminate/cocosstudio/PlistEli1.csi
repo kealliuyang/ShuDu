@@ -1,0 +1,64 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="PlistEli1" Type="Plist" ID="2f2aa787-9101-440a-b81b-d56cd8b61e5b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/bg_score.png" />
+      <FilePathData Path="image/game/bg_times.png" />
+      <FilePathData Path="image/game/Btn_pause.png" />
+      <FilePathData Path="image/game/Btn_refresh.png" />
+      <FilePathData Path="image/game/grid_bottom.png" />
+      <FilePathData Path="image/game/general/big_blue_h.png" />
+      <FilePathData Path="image/game/general/big_blue_n.png" />
+      <FilePathData Path="image/game/general/big_green_h.png" />
+      <FilePathData Path="image/game/general/big_green_n.png" />
+      <FilePathData Path="image/game/general/big_orange_h.png" />
+      <FilePathData Path="image/game/general/big_orange_n.png" />
+      <FilePathData Path="image/game/general/big_purple_h.png" />
+      <FilePathData Path="image/game/general/big_purple_n.png" />
+      <FilePathData Path="image/game/general/big_red_h.png" />
+      <FilePathData Path="image/game/general/big_red_n.png" />
+      <FilePathData Path="image/game/general/big_yellow_h.png" />
+      <FilePathData Path="image/game/general/big_yellow_n.png" />
+      <FilePathData Path="image/game/general/grid_1.png" />
+      <FilePathData Path="image/game/general/grid_2.png" />
+      <FilePathData Path="image/over/bg_score.png" />
+      <FilePathData Path="image/over/back.png" />
+      <FilePathData Path="image/over/hone.png" />
+      <FilePathData Path="image/pause/back.png" />
+      <FilePathData Path="image/pause/Btn_continue.png" />
+      <FilePathData Path="image/pause/hone.png" />
+      <FilePathData Path="image/rank/Btn_advanced.png" />
+      <FilePathData Path="image/rank/Btn_advanced_s.png" />
+      <FilePathData Path="image/rank/Btn_general.png" />
+      <FilePathData Path="image/rank/Btn_general_s.png" />
+      <FilePathData Path="image/rank/NB_bg1.png" />
+      <FilePathData Path="image/rank/NB_bg2.png" />
+      <FilePathData Path="image/game/advanced/Dotted-box2.png" />
+      <FilePathData Path="image/game/general/Dotted-box1.png" />
+      <FilePathData Path="image/over/game-over.png" />
+      <FilePathData Path="image/pause/pause-game.png" />
+      <FilePathData Path="image/rank/Btn.png" />
+      <FilePathData Path="image/rank/bg_2.png" />
+      <FilePathData Path="image/rank/bg_1.png" />
+      <FilePathData Path="image/start/Btn_advanced.png" />
+      <FilePathData Path="image/start/Btn_general.png" />
+      <FilePathData Path="image/start/Btn_ranking.png" />
+      <FilePathData Path="image/start/logo.png" />
+      <FilePathData Path="image/game/advanced/big_blue_h.png" />
+      <FilePathData Path="image/game/advanced/big_blue_n.png" />
+      <FilePathData Path="image/game/advanced/big_green_h.png" />
+      <FilePathData Path="image/game/advanced/big_green_n.png" />
+      <FilePathData Path="image/game/advanced/big_orange_h.png" />
+      <FilePathData Path="image/game/advanced/big_orange_n.png" />
+      <FilePathData Path="image/game/advanced/big_purple_h.png" />
+      <FilePathData Path="image/game/advanced/big_purple_n.png" />
+      <FilePathData Path="image/game/advanced/big_red_h.png" />
+      <FilePathData Path="image/game/advanced/big_red_n.png" />
+      <FilePathData Path="image/game/advanced/big_yellow_h.png" />
+      <FilePathData Path="image/game/advanced/big_yellow_n.png" />
+      <FilePathData Path="image/game/advanced/grid_1.png" />
+      <FilePathData Path="image/rank/Btn_close.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
