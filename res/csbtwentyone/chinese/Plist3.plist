@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/shop/shangchengbt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,805},{419,115}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{419,115}</string>
+			</dict>
+			<key>image/shop/goumaidb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,560},{300,394}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{300,394}</string>
+			</dict>
+			<key>image/start/bangzhu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,560},{408,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{408,126}</string>
+			</dict>
+			<key>image/start/gongzhu .png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,307},{78,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{78,143}</string>
+			</dict>
+			<key>image/start/kaishi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,688},{435,115}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{435,115}</string>
+			</dict>
+			<key>image/start/paihang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{348,922},{464,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{464,101}</string>
+			</dict>
+			<key>image/start/shangcheng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{537,317},{105,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,104}</string>
+			</dict>
+			<key>image/start/shezhi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{644,387},{105,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{105,104}</string>
+			</dict>
+			<key>image/start/ta.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{534,557}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{534,557}</string>
+			</dict>
+			<key>image/poker/hongxin3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{814,888},{122,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,164}</string>
+			</dict>
+			<key>image/poker/hongxin4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{884,1},{122,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,164}</string>
+			</dict>
+			<key>image/poker/hongxin5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{884,167},{122,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,164}</string>
+			</dict>
+			<key>image/poker/hongxin6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{884,333},{122,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,164}</string>
+			</dict>
+			<key>image/game/gongzhu1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{713,154},{81,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{81,148}</string>
+			</dict>
+			<key>image/game/gongzhu2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{537,1},{81,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{81,148}</string>
+			</dict>
+			<key>image/game/gongzhu3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{620,1},{81,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{81,148}</string>
+			</dict>
+			<key>image/game/gongzhu4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{537,151},{81,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{81,148}</string>
+			</dict>
+			<key>image/game/gongzhu5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{537,234},{81,148}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{81,148}</string>
+			</dict>
+			<key>image/game/gongzhu6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{740,1},{81,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{81,151}</string>
+			</dict>
+			<key>image/game/gongzhu7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{724,805},{81,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{81,158}</string>
+			</dict>
+			<key>image/game/qs1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,956},{65,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{65,173}</string>
+			</dict>
+			<key>image/game/qs2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,956},{59,170}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{59,170}</string>
+			</dict>
+			<key>image/game/qs3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,237},{68,174}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,174}</string>
+			</dict>
+			<key>image/poker/hongxin10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{884,499},{122,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,164}</string>
+			</dict>
+			<key>image/poker/hongxin2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{884,665},{122,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,164}</string>
+			</dict>
+			<key>image/game/hand.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{537,423},{98,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,79}</string>
+			</dict>
+			<key>image/game/back.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{637,494},{65,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,64}</string>
+			</dict>
+			<key>image/game/help.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{704,494},{65,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist3.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist3.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

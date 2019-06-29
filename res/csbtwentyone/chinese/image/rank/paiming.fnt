@@ -1,0 +1,18 @@
+info face="บบาวลดรือลW" size=80 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=80 base=68 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="paiming_0.png"
+chars count=14
+char id=48   x=119   y=0     width=14    height=17    xoffset=0     yoffset=0     xadvance=14    page=0  chnl=15
+char id=49   x=31    y=0     width=9     height=19    xoffset=0     yoffset=0     xadvance=9     page=0  chnl=15
+char id=50   x=134   y=0     width=12    height=17    xoffset=0     yoffset=0     xadvance=12    page=0  chnl=15
+char id=51   x=105   y=0     width=13    height=18    xoffset=0     yoffset=0     xadvance=13    page=0  chnl=15
+char id=52   x=41    y=0     width=16    height=18    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=53   x=58    y=0     width=15    height=18    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+char id=54   x=90    y=0     width=14    height=18    xoffset=0     yoffset=0     xadvance=14    page=0  chnl=15
+char id=55   x=74    y=0     width=15    height=18    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+char id=56   x=0     y=0     width=15    height=19    xoffset=0     yoffset=0     xadvance=15    page=0  chnl=15
+char id=57   x=16    y=0     width=14    height=19    xoffset=0     yoffset=0     xadvance=14    page=0  chnl=15
+char id=22696 x=44    y=19    width=37    height=50    xoffset=14    yoffset=23    xadvance=63    page=0  chnl=15
+char id=26412 x=143   y=18    width=46    height=43    xoffset=9     yoffset=27    xadvance=63    page=0  chnl=15
+char id=38197 x=82    y=19    width=60    height=46    xoffset=1     yoffset=24    xadvance=63    page=0  chnl=15
+char id=40657 x=0     y=20    width=43    height=51    xoffset=10    yoffset=22    xadvance=63    page=0  chnl=15
